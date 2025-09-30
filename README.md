@@ -61,7 +61,7 @@ The goal is to identify high-risk borrower groups, understand default trends acr
 ---
 
 ### [3] Financial Risk Metrics  
-![Financial Risk Matrics](images/Financial%20Risk%20Matric.png)
+![Financial Risk Matrics](images/Financial%20Risk%20Matrics.png)
 
 - **YOY Loan Growth**: +1.3% in 2015, +1.7% in 2018; dips in 2014 (–1.5%) & 2017 (–1.0%).  
 - **YOY Default Change**: Spike in 2015 (+2.7%), sharp drop in 2017 (–2.8%), rebound in 2018 (+1.9%).  
